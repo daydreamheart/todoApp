@@ -1,2 +1,2 @@
 # todolist
-App made with Vue.js and Bootstrap5 📅
+App made with Vue.js and Bootstrap5. 
