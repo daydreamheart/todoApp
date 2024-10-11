@@ -10,8 +10,8 @@ body {
 }
 
 div {
-  padding: 1rem;
   margin: 1rem auto;
+  padding: 1rem;
 }
 
 form {
@@ -19,7 +19,7 @@ form {
 }
 
 .doneClass {
-  text-decoration: line-through #4A536B ;
+  text-decoration: line-through #4A536B;
 }
 
 .pointerMouse {
@@ -31,19 +31,19 @@ form {
 }
 
 #subHeading {
-  opacity: 0.6;
+  font-family: 'Inconsolata', monospace;
   color: #FF9A8D;
   font-style: italic;
-  font-family: 'Inconsolata', monospace;
+  opacity: 0.6;
 }
 
 .btn-success {
-  border-color: #4A536B !important;
   background-color: #4A536B !important;
+  border-color: #4A536B !important;
 }
 
 .btn-warning {
   color: #FFFFFF !important;
-  border-color: #FF9A8D !important;
   background-color: #FF9A8D !important;
+  border-color: #FF9A8D !important;
 }
